@@ -11,6 +11,6 @@ cxx_compiler:
 glog:
 - '0.7'
 libboost_devel:
-- '1.88'
+- '1.90'
 target_platform:
 - win-64
